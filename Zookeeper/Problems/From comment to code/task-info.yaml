@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# prints "ok" without quotes'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6790
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6790">JetBrains
+    Academy</a></html>
+  time: Wed, 07 Oct 2020 01:39:45 UTC
+record: -1
